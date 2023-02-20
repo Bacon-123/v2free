@@ -15,7 +15,7 @@ https://xcao.top/post-278.html 水了个博文，操作更详细
 | ------------ | ------------ | ------------ | ------------ |
 | EMAIL  | 是  | 注册机场所用邮箱  | a@example.com  |
 | PASSWORD  | 是  | 注册机场所用密码  | password1  |
-| BASE_URL  | 是  | 机场地址  | https://examplea.com  |
+| BASE_URL  | 是  | 机场登录地址，只截取/auth/login之前的链接  | https://examplea.com  |
 | SCKEY  | 否  | Sever酱秘钥  | SCTxxxxxxxxxxxxxx  |
 | TGBOT  | 否  | Telegram推送bot  | 5xxxxxxx:xxxxxxxxx  |
 | TGUSERID  | 否  | Telegram推送人id  | 8xxxxxxxxx  |
