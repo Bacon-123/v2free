@@ -16,9 +16,6 @@ https://xcao.top/post-278.html 水了个博文，操作更详细
 | EMAIL  | 是  | 注册机场所用邮箱  | a@example.com  |
 | PASSWORD  | 是  | 注册机场所用密码  | password1  |
 | BASE_URL  | 是  | 机场登录地址，只截取/auth/login之前的链接  | https://examplea.com  |
-| SCKEY  | 否  | Sever酱秘钥  | SCTxxxxxxxxxxxxxx  |
-| TGBOT  | 否  | Telegram推送bot  | 5xxxxxxx:xxxxxxxxx  |
-| TGUSERID  | 否  | Telegram推送人id  | 8xxxxxxxxx  |
 
 3. 转到`Actions`创建一个workflow，运行一次，以后每天项目都会自动运行。最后，可以到Run sign查看签到情况，同时也会通过Sever酱发送出去。
 ## 参考
@@ -26,4 +23,3 @@ https://xcao.top/post-278.html 水了个博文，操作更详细
 2. https://github.com/sirodeneko/genshin-sign 参考其Actions的yml。
 （两个仓库均无许可证，让我有点蒙）
 ## 赞助我
-[![](https://raw.githubusercontent.com/xiaocao666tzh/imghosting/main/img/%E4%B8%87%E8%83%BD%E6%94%B6%E6%AC%BE%E7%A0%81-%E8%8D%89%E3%81%AE%E5%8D%9A%E5%AE%A2.png)](https://raw.githubusercontent.com/xiaocao666tzh/imghosting/main/img/%E4%B8%87%E8%83%BD%E6%94%B6%E6%AC%BE%E7%A0%81-%E8%8D%89%E3%81%AE%E5%8D%9A%E5%AE%A2.png)
